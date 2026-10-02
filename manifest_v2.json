@@ -1,0 +1,37 @@
+{
+  "item": {
+    "id": "rpacktest",
+    "restype": "res_pack",
+    "name": "测试crpack",
+    "description": "crpacktestcrpacktestcrpacktestcrpacktestcrpacktestcrpacktestcrpacktest",
+    "preview": [
+      "media/head (1).png",
+      "media/head.png",
+      "media/coverA.png",
+      "media/Screenshot_2026-08-07-11-14-19-188_cn.waijade.wo.png"
+    ],
+    "icon": "media/logo.png",
+    "cover": "media/head (1).png",
+    "author": [
+      {
+        "name": "WaiJade",
+        "bindABAccount": true
+      }
+    ]
+  },
+  "links": [
+    {
+      "title": "1",
+      "url": "https://github.com/AstralSightStudios/AstroBoxCreatorConsole/releases/new",
+      "icon": "github-logo"
+    }
+  ],
+  "downloads": {
+    "xmb10nfc": {
+      "version": "1.0.0",
+      "file_name": "downloads/naiwa-corona-xmb10nfc.crpack",
+      "versionCode": 1
+    }
+  },
+  "ext": {}
+}
