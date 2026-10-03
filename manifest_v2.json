@@ -31,7 +31,14 @@
       "version": "1.0.0",
       "file_name": "downloads/naiwa-corona-xmb10nfc.crpack",
       "versionCode": 1
+    },
+    "xmrw6": {
+      "version": "1.0.0",
+      "file_name": "downloads/naiwa-corona-xmrw6.crpack",
+      "versionCode": 1
     }
   },
-  "ext": {}
+  "ext": {
+    "enableAstroBoxCreatorFeatures": true
+  }
 }
